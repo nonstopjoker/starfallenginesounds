@@ -878,7 +878,6 @@ vt 0.698253 20.244497
 vt 2.713708 -0.588605
 vt 6.744836 -0.717394
 s 1
-g grilles_Bugatti_ChironSuperSport_2022Grille1A_Material.001
 usemtl Bugatti_ChironSuperSport_2022Grille1A_Material.001
 f 3/1/1 2/2/1 1/3/1
 f 3/1/1 4/4/1 2/2/1
@@ -1210,7 +1209,6 @@ f 326/217/115 325/216/119 324/218/110
 f 329/22/9 328/26/120 327/91/9
 f 331/14/5 329/22/121 330/90/5
 f 334/20/122 333/19/3 332/89/3
-g grilles_Bugatti_ChironSuperSport_2022Grille3A_Material.001
 usemtl Bugatti_ChironSuperSport_2022Grille3A_Material.001
 f 337/222/123 336/223/124 335/224/125
 f 337/222/123 338/225/126 336/223/124
